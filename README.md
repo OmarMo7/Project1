@@ -2,15 +2,14 @@
 
 ## Main Methods Added
 
-*Building a dynamically generated nav bar.
-*Scroll to anchor ID from navigation.
-*Set sections as active to be highlighted in viewport upon scrolling.
-  *Done using IntersectionObserver Object.
+1. Building a dynamically generated nav bar.
+2. Scroll to anchor ID from navigation.
+3. Set sections as active to be highlighted in viewport upon scrolling. *using _IntersectionObserver_ Object.* 
   
 ## Secondry Features Added
 
-*Hiding fixed navigation bar while not scrolling.
-
+1. Hiding fixed navigation bar while not scrolling.
+2. Modifying the existing content (background color changed). 
 
 
 -My github Repository (https://github.com/OmarMo7/Project1).
